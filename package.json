@@ -12,11 +12,8 @@
   ],
   "keywords": [
     "blockchain",
-    "bank",
     "testnet",
-    "mainnet",
-    "tellohuila",
-    "colombia"
+    "mainnet"
   ],
   "license": "MIT",
   "dependencies": {
