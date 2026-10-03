@@ -36,6 +36,9 @@ main();
 
 ```bash
 nano create_accounts.js
+```
+
+```bash
 node create_accounts.js
 ```
 
@@ -77,6 +80,9 @@ main();
 
 ```bash
 nano create_temp_address.js
+```
+
+```bash
 node create_temp_address.js
 ```
 
@@ -120,6 +126,9 @@ main();
 
 ```bash
 nano deactivate_temp_address.js
+```
+
+```bash
 node deactivate_temp_address.js
 ```
 
@@ -164,6 +173,9 @@ main();
 
 ```bash
 nano transaction.js
+```
+
+```bash
 node transaction.js
 ```
 
@@ -192,6 +204,9 @@ get_balance();
 
 ```bash
 nano get_balance.js
+```
+
+```bash
 node get_balance.js
 ```
 
@@ -216,6 +231,9 @@ ejecutarBusqueda();
 
 ```bash
 nano address_temp_details_transaction.js
+```
+
+```bash
 node address_temp_details_transaction.js
 ```
 
@@ -242,6 +260,9 @@ main();
 
 ```bash
 nano details_transaction_hash.js
+```
+
+```bash
 node details_transaction_hash.js
 ```
 
@@ -268,6 +289,9 @@ main();
 
 ```bash
 nano get_inf_block.js
+```
+
+```bash
 node get_inf_block.js
 ```
 
