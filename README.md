@@ -8,7 +8,7 @@ Es una moneda virtual.
 
 
 
-const network = require('./evm.js');
+const network = require('./index.js');
 
 async function main() {
   try {
@@ -46,7 +46,7 @@ node create_accounts.js
 
 
 
-const network = require('./evm.js');
+const network = require('./index.js');
 
 async function main() {
   try {
@@ -87,7 +87,7 @@ node create_temp_address.js
 
 
 
-const network = require('./evm.js');
+const network = require('./index.js');
 
 async function main() {
   try {
@@ -129,7 +129,7 @@ node deactivate_temp_address.js
 
 
 
-const network = require('./evm.js');
+const network = require('./index.js');
 
 async function main() {
   try {
@@ -170,7 +170,7 @@ node transaction.js
 <h2>Obtener balance</h2>
 
 ```nodejs
-const network = require('./evm.js');
+const network = require('./index.js');
 
 async function get_balance() {
   try {
@@ -198,7 +198,7 @@ node get_balance.js
 <h2>Obtener detalles de transacción por dirección temporal</h2>
 
 ```nodejs
-const network = require('./evm.js');
+const network = require('./index.js');
 
 async function ejecutarBusqueda() {
   try {
@@ -222,7 +222,7 @@ node address_temp_details_transaction.js
 <h2>Obtener detalles por hash</h2>
 
 ```nodejs
-const network = require('./evm.js');
+const network = require('./index.js');
 
 async function main() {
   try {
@@ -248,7 +248,7 @@ node details_transaction_hash.js
 <h2>Obtener detalles por bloque</h2>
 
 ```nodejs
-const network = require('./evm.js');
+const network = require('./index.js');
 
 async function main() {
   try {
