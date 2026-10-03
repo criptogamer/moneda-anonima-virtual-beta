@@ -1,6 +1,26 @@
 # moneda-anonima-virtual-beta
 Es una moneda virtual.
 
+```bash
+
+yes | pkg install mariadb && yes | pkg install nodejs && yes | pkg install git && npm i mysql2 dotenv
+
+```
+
+
+
+```bash
+git clone https://github.com/criptogamer/moneda-virtual-anonima.git
+
+```
+
+
+```bash
+cd moneda-virtual-anonima
+```
+
+
+
 
 <h2>Crear cuentas</h2>
 
