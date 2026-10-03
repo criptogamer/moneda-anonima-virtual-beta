@@ -10,7 +10,7 @@ yes | pkg install mariadb && yes | pkg install nodejs && yes | pkg install git &
 
 
 ```bash
-git clone https://github.com/criptogamer/moneda-virtual-anonima.git
+git clone https://github.com/criptogamer/moneda-anonima-virtual-beta.git
 
 ```
 
